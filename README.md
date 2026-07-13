@@ -16,7 +16,7 @@
 
 📑 **[𝚁𝚎𝚊𝚍 𝚝𝚑𝚎 𝚙𝚊𝚙𝚎𝚛 𝚘𝚗 𝚊𝚛𝚡𝚒𝚟.](https://arxiv.org/abs/2606.06921)**
 
-👉 **[𝙳𝚘𝚠𝚗𝚕𝚘𝚊𝚍 𝚝𝚑𝚎 𝙴𝚂𝙰𝚂 𝙳𝚊𝚝𝚊𝚜𝚎𝚝 𝚘𝚗 𝚉𝚎𝚗𝚘𝚍𝚘.](https://doi.org/10.5281/zenodo.20623264)**
+👉 **[𝙳𝚘𝚠𝚗𝚕𝚘𝚊𝚍 𝚝𝚑𝚎 𝙴𝚂𝙰𝚂 𝙳𝚊𝚝𝚊𝚜𝚎𝚝 𝚘𝚗 𝚉𝚎𝚗𝚘𝚍𝚘.](https://doi.org/10.5281/zenodo.21317541)**
 
 ## 𝑰𝒏𝒕𝒓𝒐𝒅𝒖𝒄𝒕𝒊𝒐𝒏
 Existing ASC datasets typically contain recordings of clean and consistent audio, while real-world environments often include diverse and unexpected sound events. To bridge this gap, ESAS simulates real-world acoustic variability by injecting foreground sound events into background scenes with the assistance of large language models.
