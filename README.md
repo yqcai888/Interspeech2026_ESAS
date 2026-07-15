@@ -3,7 +3,7 @@
   <!-- 会议状态与许可证 -->
   <img src="https://img.shields.io/badge/Conference-Interspeech_2026-purple" alt="Conference">
   <img src="https://img.shields.io/badge/Status-Accepted-success" alt="Status">
-  <img src="https://img.shields.io/badge/License-MIT-green" alt="License">
+  <img src="https://img.shields.io/badge/License-Appache-2.0-green" alt="License">
   <br>
   <!-- 数据集与 DOI -->
   <img src="https://img.shields.io/badge/Dataset-ESAS-blue" alt="Dataset">
